@@ -1,0 +1,6 @@
+applicationType: cli
+defaultPackage: okraskat.cron.parser
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, junit, logback, maven, picocli, picocli-java-application, picocli-junit, readme, shade, yaml]
